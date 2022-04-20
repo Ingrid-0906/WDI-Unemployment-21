@@ -1,0 +1,6 @@
+numpy== 
+pandas== 
+plotly == 
+geopandas == 
+plotly.express== 
+plotly.graph_objects == 
