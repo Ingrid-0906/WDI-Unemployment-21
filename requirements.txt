@@ -1,4 +1,4 @@
-python==3.9.7
+python==3.8.5
 numpy==1.19.15
 pandas==1.1.5
 plotly==5.6.0
