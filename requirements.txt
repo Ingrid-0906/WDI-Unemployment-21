@@ -3,3 +3,4 @@ streamlit==1.8.0
 click<=8.0.4
 pandas==1.2.4
 numpy==1.19.2
+geopandas==0.10.2
