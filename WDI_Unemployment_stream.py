@@ -42,7 +42,7 @@ with st.sidebar:
             <span class="title">Ingrid Cadu</span><br>
             <span class="sub-title">Data Scientist Jr.</span><br>
             <div class="social">
-                <a href="#"><i class='bx bxl-github'></i></a>
+                <a href="https://github.com/Ingrid-0906/"><i class='bx bxl-github'></i></a>
                 <a href="#"><i class='bx bxl-linkedin-square'></i></a>
             </div>
             <ul class="nav">
