@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  word-break: break-word;
+}
+body{
+	background-color: var(--white);
+}
+:root{
+  --black: #333;
+  --white: #fff;
+  --back:  #f2f3f7;
+}
+#world-unemployment-growth{
+	font-size: 2.5rem;
+}
+p{
+	text-align: justify;
+}
+
+div.css-zt5igj span{
+	text-align: center;
+}
+div.css-12oz5g7.egzxvld2{
+	padding: .6rem 1rem 10rem;
+}
+#MainMenu{
+	visibility: hidden;
+}
+div.css-zbg2rx.e1fqkh3o1{
+	padding : 6rem 0 0 1rem;
+}
+div.css-sg054d.e1fqkh3o3{
+	background-color: var(--back);
+	border-radius: 20%;
+}
+a:hover{
+	color: rgb(255, 75, 75);
+}
+.title{
+	font-size: 2rem;
+	font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.sub-title{
+	font-size: 1rem;
+	letter-spacing: 2px;
+}
+.social{
+	width: 50%;
+	display: flex;
+	flex-direction: row;
+	align-items: left;
+	justify-content: space-around;
+}
+.social a{
+	margin: 1rem;
+	padding: .3rem;
+}
+.bxl-github,
+.bxl-linkedin-square{
+	font-size: 27px;
+	color: var(--black);
+}
+.bxl-github:hover,
+.bxl-linkedin-square:hover{
+	color: rgb(255,75,75);
+}
+.title-menu{
+	font-weight: 500;
+}
+li {
+	list-style: none;
+	margin:  10px 0;
+}
+.nav li a{
+	color: var(--black);
+  font-size: 1.2rem;
+  letter-spacing: 4px;
+  display: inline-block;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform:  uppercase;
+}
+.nav-item a{
+	padding: .6rem;
+}
+.nav-item:hover{
+	background-color: var(--white);
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
